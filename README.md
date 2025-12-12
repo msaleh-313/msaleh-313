@@ -1,11 +1,11 @@
-## Hi 👋, I'm Sam
+## Hi 👋, I'm Muhammad Saleh
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Sam, a full-time full-stack developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Muhammad Saleh, a full-time full-stack developer 👨‍💻 working since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working as a **Full-Stack Developer** specializing in **Ruby on Rails**, **Python**, and **React** 
